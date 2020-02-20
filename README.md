@@ -1,3 +1,6 @@
+## Deprecation Notice
+
+This repository is not maintained and should not be used for any @xplorfin projects.
 
 # docker-bitcoind
 
